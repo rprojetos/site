@@ -1,3 +1,3 @@
 # site
 site de teste
-Arquivo README.md , modoficado diretamente no GitHub
+Arquivo README.md , modificado diretamente no GitHub
